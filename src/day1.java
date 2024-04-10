@@ -3,7 +3,11 @@ public class day1 {
         int k;
         k=5;
         String s = "Hello";
-        System.out.println(k);
+        String space = " ";
+        String name = "Bob";
+        System.out.println(s+space+name);
+        System.out.println("Hello"+" "+"Jony");
+        System.out.println("My number is "+ k);
     }
 
 }
